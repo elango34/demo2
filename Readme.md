@@ -8,4 +8,5 @@ added more lines
     this is test line added via f1.
     testing reset and unstaged and again commited
     testing reset2 and unstaged and again commited, added this line after undoing 
+
     
